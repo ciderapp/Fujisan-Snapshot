@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "golang.go",
+        "actboy168.tasks",
+        "wayou.vscode-todo-highlight",
+        "eamodio.gitlens",
+        "vue.volar",
+        "gencer.html-slim-scss-css-class-completion",
+        "syler.sass-indented",
+        "formulahendry.auto-rename-tag"
+    ]
+}

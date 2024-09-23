@@ -1,0 +1,14 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Cider",
+  "outputfilename": "Cider",
+  "assetdir": "",
+  "frontend:install": "yarn install",
+  "frontend:build": "yarn build:spa",
+  "frontend:dev:watcher": "yarn dev",
+  "frontend:dev:serverUrl": "http://localhost:9000",
+  "author": {
+    "name": "Cider Collective <development@cider.sh>",
+    "email": "development@cider.sh"
+  }
+}
